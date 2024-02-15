@@ -1,7 +1,7 @@
 # T3A2-A - Full Stack App (Part A)
 
 ## Landscaping Business Scheduling and Operation Platform - Green Thumb
-### Harry, Connor and Adam
+### Harry, Connor and Adam.
 
 #### **README Contents:**
 1. [Project Purpose](#Project-Purpose)  

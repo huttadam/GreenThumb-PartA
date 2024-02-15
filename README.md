@@ -43,8 +43,8 @@
 
 ### Data Flow Diagrams
 <p align="center">
-  <img src="./docs/Dataflow-Diagrams/drawDiagram_draft4.drawio.pdf" />
-</p>
+  <img src="./docs/Dataflow-Diagrams/dataflow_diagram.png" />
+  </p>
 
 
 

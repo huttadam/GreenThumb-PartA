@@ -12,7 +12,8 @@
 
 1. [Application Architecture Diagrams](#Application-Architecture-Diagrams)  
 1. [User Stories](#User-Stories)  
-1. [Wireframes](#Wireframes) 
+1. [Wireframes](#Wireframes)
+   - [Site Flow Maps](#Site-Flow)
    - [Mobile](#Mobile)
    - [Tablet](#Tablet)
    - [Desktop](#Desktop)  
@@ -87,8 +88,17 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 <br/>
 
 ### Data Flow Diagrams
+#### Overview
 <p align="center">
-  <img src="./docs/Dataflow-Diagrams/dataflow_diagram.png" />
+  <img src="./docs/dataflow_diagrams/COMBINED.drawio.png" />
+  </p>
+
+<p align="center">
+  <img src="./docs/dataflow_diagrams/MANAGER.drawio.png" />
+  </p>
+
+<p align="center">
+  <img src="./docs/dataflow_diagrams/EMPLOYEE.drawio.png" />
   </p>
 
 
@@ -97,6 +107,9 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 
 
 ### Application Architecture Diagram
+<p align="center">
+  <img src="./docs/app_architecture/app_architecture_doc.pdf" />
+  </p>
 
 
 
@@ -129,6 +142,15 @@ As a customer, I want to leave feedback and ratings for completed jobs, to share
 ### Wireframes
 
 #### *Site Flow*
+##### Manager-side Flow
+<p align="center">
+  <img src="./docs/sitemap/SITEMAP-D.pdf" />
+  </p>
+
+##### Employee-side Flow
+<p align="center">
+  <img src="./docs/sitemap/SITEMAP-E.pdf" />
+  </p>
 
 
 #### *Mobile*

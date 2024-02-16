@@ -23,16 +23,45 @@
 
 ### Purpose
 
+Green Thumbs, a local landscaping company, faces challenges in managing their growing business, particularly internal communication. Essential job details such as addresses, tasks, and customer requests are not effectively communicated to staff, resulting in inefficiencies and customer dissatisfaction. To address this, our team has been tasked with developing a tailored operational team/task management web application. The purpose is to streamline communication, enhance customer satisfaction, and improve efficiency by providing a platform that:
 
+- Communicates scheduling information to multiple staff members across various ongoing jobs.
+- Maintains customer satisfaction through an internal noting system ensuring employees understand customer needs.
+- Tracks employees' working hours with a clock-in/clock-out mechanism.
+- Manages and stores job and employee information for easy reference.
+
+The application aims to alleviate management's workload, enabling them to focus on key growth areas and enhance scalability.
 <br/>
 
 ### Functionality and Features
+The Green Thumbs web application is designed for task, team, and record management specific to a growing landscape company. It serves as the primary operating platform for both management and employee staff to communicate job information without reliance on phone calls or face-to-face interactions. Additionally, it acts as a repository for past job data and notes, aiding accounting and general operational information storage.
+ 
+**1. Account Authorization:**
+   - The application employs coded authorization methods to allocate permissions and functionality, ensuring ease of use for both employees and management.
+   - Employees access only necessary functionalities, reducing the need for extensive training.
+   - Management retains control over job and employee information while maintaining simplicity.
 
+**2. Communication via Job Updates:**
+   - Employees can update job statuses and provide key information via the application's interface.
+   - Management stays informed about completed tasks and relevant notes without direct communication.
+   - Initial job communication can also occur within the application.
 
+**3. Bookkeeping:**
+   - The application tracks individual employee working hours, crucial for financial management.
+   - Employees clock in and out through the application, allowing for easy monitoring by management.
+   - Management can address discrepancies or additional information needs directly within job notes.
+
+**4. Job Control:**
+   - Management enters job details into a user-friendly form, customizable to suit job parameters.
+   - Job progress is monitored, and completed jobs can be closed, with data saved for future reference.
+
+**5. Schedule Calendar:**
+   - A user-specific schedule calendar displays assigned jobs for employees and all current and future jobs for managers.
+   - Managers can easily access job information for scheduling and monitoring purposes, streamlining navigation within the application.
 <br/>
 
 ### Target Audience
-
+Landscaping businesses would be able to use this app as a way to support their employees and monitor their staff productivity. Managers would be able to create jobs easily and monitor their progress. Staff can relay information about the job back to the office without having to spend time on the phone. 
 
 <br/>
 

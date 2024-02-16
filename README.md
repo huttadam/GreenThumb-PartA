@@ -109,7 +109,7 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 
 ### Application Architecture Diagram
 <p align="center">
-  <img src="./docs/app_architecture/app_architecture_doc.pdf" />
+  <img src="./docs/app_architecture/app-arch.png" />
   </p>
 
 
@@ -145,12 +145,12 @@ As a customer, I want to leave feedback and ratings for completed jobs, to share
 #### *Site Flow*
 ##### Manager-side Flow
 <p align="center">
-  <img src="./docs/sitemap/SITEMAP-D.pdf" />
+  <img src="./docs/sitemap/sitemap-M.png" />
   </p>
 
 ##### Employee-side Flow
 <p align="center">
-  <img src="./docs/sitemap/SITEMAP-E.pdf" />
+  <img src="./docs/sitemap/sitemap-E.png" />
   </p>
 
 

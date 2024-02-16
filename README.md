@@ -93,15 +93,16 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
   <img src="./docs/dataflow_diagrams/COMBINED.drawio.png" />
   </p>
 
+#### Manager Data Flow
 <p align="center">
   <img src="./docs/dataflow_diagrams/MANAGER.drawio.png" />
   </p>
 
+
+#### Employee Data Flow
 <p align="center">
   <img src="./docs/dataflow_diagrams/EMPLOYEE.drawio.png" />
   </p>
-
-
 
 <br/>
 

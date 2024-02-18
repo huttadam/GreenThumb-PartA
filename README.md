@@ -202,6 +202,8 @@ Below are the final wireframes that will link you to figma.
 
 #### Daily Progress
 
+Below are screenshots of the board taken daily. Please see docs folder for further detailed screenshots.
+
 ![Day 1](./docs/daily_trello/1--%202024-02-12%20at%2014.07.00.png)
 ![Day 2](./docs/daily_trello/2--%202024-02-13%20at%209.49.52.png)
 ![Day 3](/docs/daily_trello/3--%202024-02-14%20at%2016.39.35.png)

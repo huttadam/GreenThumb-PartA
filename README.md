@@ -195,11 +195,6 @@ Below are the final wireframes that will link you to figma.
 
 ### Project Management
 
-#### Trello Link
-[![Green Thumb -Part A](/docs/wireframes/tablet_final.jpg)](https://trello.com/b/kKpNEn4u/t3-full-stack-mern-application)
-
-
-
 #### Daily Progress
 
 ![Day 1](./docs/daily_trello/1--%202024-02-12%20at%2014.07.00.png)
@@ -208,6 +203,11 @@ Below are the final wireframes that will link you to figma.
 ![Day 4](/docs/daily_trello/4--%202024-02-15%20at%209.04.21.png)
 ![Day 5](/docs/daily_trello/5--%202024-02-16%20at%2012.09.19.png)
 ![Day 6](/docs/daily_trello/6--%202024-02-18%20at%2016.15.33.png)
+
+
+
+#### Trello Link
+[![Green Thumb -Part A](/docs/wireframes/tablet_final.jpg)](https://trello.com/b/kKpNEn4u/t3-full-stack-mern-application)
 
 
 

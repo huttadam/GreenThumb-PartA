@@ -24,7 +24,7 @@
 
 ### Purpose
 
-Green Thumbs, a local landscaping company, faces challenges in managing their growing business, particularly internal communication. Essential job details such as addresses, tasks, and customer requests are not effectively communicated to staff, resulting in inefficiencies and customer dissatisfaction. To address this, our team has been tasked with developing a tailored operational team/task management web application. The purpose is to streamline communication, enhance customer satisfaction, and improve efficiency by providing a platform that:
+Green Thumb, a local landscaping company, faces challenges in managing their growing business, particularly internal communication. Essential job details such as addresses, tasks, and customer requests are not effectively communicated to staff, resulting in inefficiencies and customer dissatisfaction. To address this, our team has been tasked with developing a tailored operational team/task management web application. The purpose is to streamline communication, enhance customer satisfaction, and improve efficiency by providing a platform that:
 
 - Communicates scheduling information to multiple staff members across various ongoing jobs.
 - Maintains customer satisfaction through an internal noting system ensuring employees understand customer needs.
@@ -35,7 +35,7 @@ The application aims to alleviate management's workload, enabling them to focus 
 <br/>
 
 ### Functionality and Features
-The Green Thumbs web application is designed for task, team, and record management specific to a growing landscape company. It serves as the primary operating platform for both management and employee staff to communicate job information without reliance on phone calls or face-to-face interactions. Additionally, it acts as a repository for past job data and notes, aiding accounting and general operational information storage.
+The Green Thumb web application is designed for task, team, and record management specific to a growing landscape company. It serves as the primary operating platform for both management and employee staff to communicate job information without reliance on phone calls or face-to-face interactions. Additionally, it acts as a repository for past job data and notes, aiding accounting and general operational information storage.
  
 **1. Account Authorization:**
    - The application employs coded authorization methods to allocate permissions and functionality, ensuring ease of use for both employees and management.
@@ -83,7 +83,7 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 
 * Testing: Vite, Jest. We will be implementing both testing frameworks for the application. This will be useful to cover all bases around testing.
 
-* Others: Discord, Figma, Trello. Discord is used for communication in the team. Figma is used for wiremapping and planning. Trello is used as a team board to cover all tasks.
+* Others: Discord, Figma,Draw.io Trello. Discord is used for communication in the team. Figma and Draw.io is used for wiremapping and planning. Trello is used as a team board to cover all tasks.
 
 <br/>
 
@@ -118,25 +118,25 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 <br/>
 
 ### User Stories
-As a manager/owner, I want to be able to create new jobs within the app, including specifying the job title, address, any special requests, and assigning employees to the job.
+- As a manager/owner, I want to be able to create new jobs within the app, including specifying the job title, address, any special requests, and assigning employees to the job.
 
-As a manager/owner, I want to view a list of all jobs, including their status (e.g., pending, in progress, completed), so that I can track the progress of each job and manage the workload efficiently.
+- As a manager/owner, I want to view a list of all jobs, including their status (e.g., pending, in progress, completed), so that I can track the progress of each job and manage the workload efficiently.
 
-As a manager/owner, I want to review completed jobs, including any notes left by employees and customer feedback, to ensure that the work meets quality standards and address any issues that arise.
+- As a manager/owner, I want to review completed jobs, including any notes left by employees and customer feedback, to ensure that the work meets quality standards and address any issues that arise.
 
-As an employee, I want to see a list of upcoming jobs assigned to me, along with relevant details such as the job title, address, and any special instructions, so that I can prepare for my workday.
+- As an employee, I want to see a list of upcoming jobs assigned to me, along with relevant details such as the job title, address, and any special instructions, so that I can prepare for my workday.
 
-As an employee, I want to clock in and out for each work order directly within the app, to accurately track my hours worked and ensure that I am paid correctly.
+ - As an employee, I want to clock in and out for each work order directly within the app, to accurately track my hours worked and ensure that I am paid correctly.
 
-As an employee, I want to leave notes on each job, such as any issues encountered, additional equipment used, or positive feedback from the customer, to provide detailed information to the manager/owner and improve communication within the team.
+ - As an employee, I want to leave notes on each job, such as any issues encountered, additional equipment used, or positive feedback from the customer, to provide detailed information to the manager/owner and improve communication within the team.
 
-As a customer, I want to create an account within the app, so that I can easily submit requests for landscaping services and track the status of my requests.
+ - As a customer, I want to create an account within the app, so that I can easily submit requests for landscaping services and track the status of my requests.
 
-As a customer, I want to submit a request for a job, including providing details such as the job title, address, any special instructions, and preferred dates/times for the service, to ensure that my needs are clearly communicated to the landscaping company.
+ - As a customer, I want to submit a request for a job, including providing details such as the job title, address, any special instructions, and preferred dates/times for the service, to ensure that my needs are clearly communicated to the landscaping company.
 
-As a customer, I want to receive notifications and updates on the status of my job request, including when it has been assigned to an employee and when the work is completed, to stay informed throughout the process.
+ - As a customer, I want to receive notifications and updates on the status of my job request, including when it has been assigned to an employee and when the work is completed, to stay informed throughout the process.
 
-As a customer, I want to leave feedback and ratings for completed jobs, to share my experience with the landscaping company and help improve their services for future customers.
+ - As a customer, I want to leave feedback and ratings for completed jobs, to share my experience with the landscaping company and help improve their services for future customers.
 
 <br/>
 
@@ -192,7 +192,23 @@ Below are the final wireframes that will link you to figma.
 
 ###### Desktop
 [![Desktop Final](/docs/wireframes/desktop_final.jpg)](https://www.figma.com/file/8wDjDXicydIuxETgQPqhFJ/Desktop?type=whiteboard&t=E9E43PZApEwA8v1u-1)
+
 ### Project Management
+
+#### Trello Link
+[![Green Thumb -Part A](/docs/wireframes/tablet_final.jpg)](https://trello.com/b/kKpNEn4u/t3-full-stack-mern-application)
+
+
+
+#### Daily Progress
+
+![Day 1](./docs/daily_trello/1--%202024-02-12%20at%2014.07.00.png)
+![Day 2](./docs/daily_trello/2--%202024-02-13%20at%209.49.52.png)
+![Day 3](/docs/daily_trello/3--%202024-02-14%20at%2016.39.35.png)
+![Day 4](/docs/daily_trello/4--%202024-02-15%20at%209.04.21.png)
+![Day 5](/docs/daily_trello/5--%202024-02-16%20at%2012.09.19.png)
+![Day 6](/docs/daily_trello/6--%202024-02-18%20at%2016.15.33.png)
+
 
 
 

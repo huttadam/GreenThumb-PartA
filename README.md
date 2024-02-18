@@ -24,7 +24,7 @@
 
 ### Purpose
 
-Green Thumbs, a local landscaping company, faces challenges in managing their growing business, particularly internal communication. Essential job details such as addresses, tasks, and customer requests are not effectively communicated to staff, resulting in inefficiencies and customer dissatisfaction. To address this, our team has been tasked with developing a tailored operational team/task management web application. The purpose is to streamline communication, enhance customer satisfaction, and improve efficiency by providing a platform that:
+Green Thumb, a local landscaping company, faces challenges in managing their growing business, particularly internal communication. Essential job details such as addresses, tasks, and customer requests are not effectively communicated to staff, resulting in inefficiencies and customer dissatisfaction. To address this, our team has been tasked with developing a tailored operational team/task management web application. The purpose is to streamline communication, enhance customer satisfaction, and improve efficiency by providing a platform that:
 
 - Communicates scheduling information to multiple staff members across various ongoing jobs.
 - Maintains customer satisfaction through an internal noting system ensuring employees understand customer needs.
@@ -35,7 +35,7 @@ The application aims to alleviate management's workload, enabling them to focus 
 <br/>
 
 ### Functionality and Features
-The Green Thumbs web application is designed for task, team, and record management specific to a growing landscape company. It serves as the primary operating platform for both management and employee staff to communicate job information without reliance on phone calls or face-to-face interactions. Additionally, it acts as a repository for past job data and notes, aiding accounting and general operational information storage.
+The Green Thumb web application is designed for task, team, and record management specific to a growing landscape company. It serves as the primary operating platform for both management and employee staff to communicate job information without reliance on phone calls or face-to-face interactions. Additionally, it acts as a repository for past job data and notes, aiding accounting and general operational information storage.
  
 **1. Account Authorization:**
    - The application employs coded authorization methods to allocate permissions and functionality, ensuring ease of use for both employees and management.
@@ -154,17 +154,61 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
   </p>
 
 
-#### *Mobile*
+#### Brainstorm
 
+![First Mobile Draft](/docs/wireframes/mob_first_draft.jpg)
 
-#### *Tablet*
+Our first wireframe was quick concepts thrown together by conversation within our team. 
 
+###### First Meeting
 
-#### *Desktop*
+![Mobile First Meeting](/docs/wireframes/mob_first_meeting.jpg)
 
+Our first meeting involed all team member critiques of the initial wireframe, where we unanimously vocied the features we wanted to create and developed a scope for the MVP.
 
+###### Second Meeting
+
+![Moblie Second Meeting](/docs/wireframes/mob_second_meeting.jpg)
+
+The Second meeting commenced soon after the first and was to ensure the direct off the app was achieved. all that was left to do was to clean up for delievery.
+
+###### Final Mobile Wireframe/ Initial Desktop
+
+![Desktop Meeting](/docs/wireframes/desktop_meeting.jpg)
+
+The final draft of the mobile wireframe was reviewed and accepted by the team and we began envisioning the Desktop view. We all contributed our ideas on how the app should respond when viewed on its largest device and how to leverage our component for efficient rendering.
+
+We all could envision the direction of the application and agreed that the next meeting would be a review the desktops and tablets final draft.
+
+###### Final Wireframes
+
+Below are the final wireframes that will link you to figma.
+
+###### Mobile
+[![Mobile Final](/docs/wireframes/mob_final.jpg)](https://www.figma.com/file/cJmNlTWhqUWbB2ukvnmAhQ/Mobile?type=whiteboard&node-id=0%3A1&t=E9E43PZApEwA8v1u-1)
+
+###### Tablet
+[![Tablet Final](/docs/wireframes/tablet_final.jpg)](https://www.figma.com/file/uJ1VsRwd6TqWGeF2krNvGs/Tablet?type=whiteboard&t=E9E43PZApEwA8v1u-1)
+
+###### Desktop
+[![Desktop Final](/docs/wireframes/desktop_final.jpg)](https://www.figma.com/file/8wDjDXicydIuxETgQPqhFJ/Desktop?type=whiteboard&t=E9E43PZApEwA8v1u-1)
 
 ### Project Management
+
+#### Trello Link
+[![Green Thumb -Part A](/docs/wireframes/tablet_final.jpg)](https://trello.com/b/kKpNEn4u/t3-full-stack-mern-application)
+
+
+
+#### Daily Progress
+
+![Day 1](./docs/daily_trello/1--%202024-02-12%20at%2014.07.00.png)
+![Day 2](./docs/daily_trello/2--%202024-02-13%20at%209.49.52.png)
+![Day 3](/docs/daily_trello/3--%202024-02-14%20at%2016.39.35.png)
+![Day 4](/docs/daily_trello/4--%202024-02-15%20at%209.04.21.png)
+![Day 5](/docs/daily_trello/5--%202024-02-16%20at%2012.09.19.png)
+![Day 6](/docs/daily_trello/6--%202024-02-18%20at%2016.15.33.png)
+
 
 
 

@@ -154,16 +154,44 @@ As a customer, I want to leave feedback and ratings for completed jobs, to share
   </p>
 
 
-#### *Mobile*
+#### Brainstorm
 
+![First Mobile Draft](/docs/wireframes/mob_first_draft.jpg)
 
-#### *Tablet*
+Our first wireframe was quick concepts thrown together by conversation within our team. 
 
+###### First Meeting
 
-#### *Desktop*
+![Mobile First Meeting](/docs/wireframes/mob_first_meeting.jpg)
 
+Our first meeting involed all team member critiques of the initial wireframe, where we unanimously vocied the features we wanted to create and developed a scope for the MVP.
 
+###### Second Meeting
 
+![Moblie Second Meeting](/docs/wireframes/mob_second_meeting.jpg)
+
+The Second meeting commenced soon after the first and was to ensure the direct off the app was achieved. all that was left to do was to clean up for delievery.
+
+###### Final Mobile Wireframe/ Initial Desktop
+
+![Desktop Meeting](/docs/wireframes/desktop_meeting.jpg)
+
+The final draft of the mobile wireframe was reviewed and accepted by the team and we began envisioning the Desktop view. We all contributed our ideas on how the app should respond when viewed on its largest device and how to leverage our component for efficient rendering.
+
+We all could envision the direction of the application and agreed that the next meeting would be a review the desktops and tablets final draft.
+
+###### Final Wireframes
+
+Below are the final wireframes that will link you to figma.
+
+###### Mobile
+[![Mobile Final](/docs/wireframes/mob_final.jpg)](https://www.figma.com/file/cJmNlTWhqUWbB2ukvnmAhQ/Mobile?type=whiteboard&node-id=0%3A1&t=E9E43PZApEwA8v1u-1)
+
+###### Tablet
+[![Tablet Final](/docs/wireframes/tablet_final.jpg)](https://www.figma.com/file/uJ1VsRwd6TqWGeF2krNvGs/Tablet?type=whiteboard&t=E9E43PZApEwA8v1u-1)
+
+###### Desktop
+[![Desktop Final](/docs/wireframes/desktop_final.jpg)](https://www.figma.com/file/8wDjDXicydIuxETgQPqhFJ/Desktop?type=whiteboard&t=E9E43PZApEwA8v1u-1)
 ### Project Management
 
 

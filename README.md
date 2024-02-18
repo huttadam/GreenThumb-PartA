@@ -79,7 +79,7 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 
 * Authentication: JWT is a common authentication mechanism which we will be utilizing to authenticate users.
 
-* Encryption: Bcrypt. Bcrypt is used to hash passwords and encrypt data for privacy.
+* Encryption: Bcrypt is used to hash passwords and encrypt data for privacy.
 
 * Testing: Vite, Jest. We will be implementing both testing frameworks for the application. This will be useful to cover all bases around testing.
 

@@ -83,7 +83,7 @@ Node.js, Express.js. Both of these will work in tandem. Node will allow the app 
 
 * Testing: Vite, Jest. We will be implementing both testing frameworks for the application. This will be useful to cover all bases around testing.
 
-* Others: Discord, Figma,Draw.io Trello. Discord is used for communication in the team. Figma and Draw.io is used for wiremapping and planning. Trello is used as a team board to cover all tasks.
+* Others: Discord, Figma, Draw.io, Trello. Discord is used for communication in the team. Figma and Draw.io is used for wiremapping and planning. Trello is used as a team board to cover all tasks.
 
 <br/>
 
@@ -164,13 +164,13 @@ Our first wireframe was quick concepts thrown together by conversation within ou
 
 ![Mobile First Meeting](/docs/wireframes/mob_first_meeting.jpg)
 
-Our first meeting involed all team member critiques of the initial wireframe, where we unanimously vocied the features we wanted to create and developed a scope for the MVP.
+Our first meeting involed all team member critiques of the initial wireframe, where we unanimously voiced the features we wanted to create and developed a scope for the MVP.
 
 ###### Second Meeting
 
 ![Moblie Second Meeting](/docs/wireframes/mob_second_meeting.jpg)
 
-The Second meeting commenced soon after the first and was to ensure the direct off the app was achieved. all that was left to do was to clean up for delievery.
+The Second meeting commenced soon after the first and was to ensure the direct off the app was achieved. all that was left to do was to clean up for delivery.
 
 ###### Final Mobile Wireframe/ Initial Desktop
 

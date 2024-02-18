@@ -207,7 +207,7 @@ Below are the final wireframes that will link you to figma.
 
 
 #### Trello Link
-[![Green Thumb -Part A](/docs/wireframes/tablet_final.jpg)](https://trello.com/b/kKpNEn4u/t3-full-stack-mern-application)
+[Green Thumb -Part A](https://trello.com/b/kKpNEn4u/t3-full-stack-mern-application)
 
 
 
